@@ -77,10 +77,10 @@
   resolved "https://registry.yarnpkg.com/@consenlabs-fe/prettier/-/prettier-0.1.2.tgz#5260b29498758cd487fc98096e7cd94d7e1ef7b5"
   integrity sha512-g9eeneFAES5qphALN8QVd6b9KzcpBp5Rgeb9xsHNlePd1FfsYjdkwUrrZiHRnp2pZE4PXUQUhOGEHnmbxS/1Pg==
 
-"@consenlabs-fe/webview@^0.0.1-dev.6":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@consenlabs-fe/webview/-/webview-0.0.1.tgz#29271127d03073c09dd797ccf5f92e6490a69d1d"
-  integrity sha512-ARp3k9EbWHeEGLQdn8wliaLoxdsbT/Qa8tl+1wEy0nRtDvL1dlAnAA4g2ENcvPTq8QzaGm7sNLuJ5F4RoqM1mA==
+"@consenlabs-fe/webview@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@consenlabs-fe/webview/-/webview-0.1.1.tgz#2911a6ad7044c20d782131e02231f92fc76be02d"
+  integrity sha512-BC3k66NMAk1+cvOptMNNYe0/wQAZoxHeRbYN+YLJay9tIsu+4YES5nt7b31+k2uAmuFRUphQdNcfYFeRMbqMNg==
 
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
